@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheURLChecker.WinFormsLegacy", "TheURLChecker.WinFormsLegacy\TheURLChecker.WinFormsLegacy.csproj", "{4174FADB-931D-489B-870A-F4E10FDB04D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheURLChecker", "TheURLChecker\TheURLChecker.csproj", "{AA6EEE93-D85F-4D57-B28B-5961BBBDD21A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheURLChecker.Console", "TheURLChecker.Console\TheURLChecker.Console.csproj", "{8E1655DD-75FA-4B56-97CB-18F2438EB1F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheURLChecker.Tests", "TheURLChecker.Tests\TheURLChecker.Tests.csproj", "{80F4AF2D-A98A-44FC-95C1-F3F86E676F0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoHTTPViaASPNETCore", "DemoHTTPViaASPNETCore\DemoHTTPViaASPNETCore.csproj", "{0C6FCE6A-769B-446D-B92A-9AA2568D65C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4174FADB-931D-489B-870A-F4E10FDB04D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4174FADB-931D-489B-870A-F4E10FDB04D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4174FADB-931D-489B-870A-F4E10FDB04D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4174FADB-931D-489B-870A-F4E10FDB04D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6EEE93-D85F-4D57-B28B-5961BBBDD21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6EEE93-D85F-4D57-B28B-5961BBBDD21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6EEE93-D85F-4D57-B28B-5961BBBDD21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6EEE93-D85F-4D57-B28B-5961BBBDD21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1655DD-75FA-4B56-97CB-18F2438EB1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1655DD-75FA-4B56-97CB-18F2438EB1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1655DD-75FA-4B56-97CB-18F2438EB1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1655DD-75FA-4B56-97CB-18F2438EB1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F4AF2D-A98A-44FC-95C1-F3F86E676F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F4AF2D-A98A-44FC-95C1-F3F86E676F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F4AF2D-A98A-44FC-95C1-F3F86E676F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F4AF2D-A98A-44FC-95C1-F3F86E676F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6FCE6A-769B-446D-B92A-9AA2568D65C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6FCE6A-769B-446D-B92A-9AA2568D65C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6FCE6A-769B-446D-B92A-9AA2568D65C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6FCE6A-769B-446D-B92A-9AA2568D65C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DFB97C4-57ED-443B-B268-D88203B398F0}
+	EndGlobalSection
+EndGlobal
